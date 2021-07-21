@@ -3,20 +3,44 @@
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow: darkgrey 10px 10px 10px;
+    box-shadow:blueviolet 10px 10px 10px;
 }
 
 .heading_div
 {
     float: none;
-    background:cornsilk;
+    background:darkmagenta;
     padding: 10px;
     border-radius: 20px;
-    color:navy;
-    box-shadow: darkgrey 10px 10px 10px;
+    color:darkorchid;
+    box-shadow:darkviolet 10px 10px 10px;
 }
 
 .heading_div2
 {
     font-size: 18px;
+}
+
+.result_para_tag
+{
+    box-shadow:indigo 7px 7px 7px;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:mediumpurple;
+    bottom: 0;
+    width: 100%;
+    background-color:purple;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:rebeccapurple 5px solid;
+    border-radius: 20px;
+    margin-top: 150px;
 }
